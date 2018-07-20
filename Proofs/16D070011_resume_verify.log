@@ -1,0 +1,603 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.20)  20 JUL 2018 07:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**16D070011_resume_verify.tex
+(./16D070011_resume_verify.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@tempdima=\dimen106
+\caption@indent=\dimen107
+\caption@parindent=\dimen108
+\caption@hangindent=\dimen109
+)
+\c@ContinuedFloat=\count87
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen110
+\Gin@req@width=\dimen111
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen112
+\calc@Bdimen=\dimen113
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count91
+\calc@Cskip=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen114
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen115
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks16
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks17
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks18
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count104
+\l_MT_multwidth_dim=\dimen123
+\origjot=\skip49
+\l_MT_shortvdotswithinadjustabove_dim=\dimen124
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen125
+\l_MT_above_intertext_sep=\dimen126
+\l_MT_below_intertext_sep=\dimen127
+\l_MT_above_shortintertext_sep=\dimen128
+\l_MT_below_shortintertext_sep=\dimen129
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count105
+\sf@farskip=\skip50
+\sf@captopadj=\dimen130
+\sf@capskip=\skip51
+\sf@nearskip=\skip52
+\c@subfigure=\count106
+\c@subfigure@save=\count107
+\c@lofdepth=\count108
+\c@subtable=\count109
+\c@subtable@save=\count110
+\c@lotdepth=\count111
+\sf@top=\skip53
+\sf@bottom=\skip54
+)
+No file 16D070011_resume_verify.aux.
+\openout1 = `16D070011_resume_verify.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen131
+\scratchbox=\box28
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen132
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+No file 16D070011_resume_verify.toc.
+\tf@toc=\write3
+\openout3 = `16D070011_resume_verify.toc'.
+
+[1]
+
+LaTeX Warning: File `Acads/10Marksheet.jpg' not found on input line 23.
+
+
+! Package pdftex.def Error: File `Acads/10Marksheet.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...idth = 1\textwidth]{Acads/10Marksheet.jpg}
+                                                  {\centering}
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `Acads/12Marksheet.jpg' not found on input line 25.
+
+
+! Package pdftex.def Error: File `Acads/12Marksheet.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...idth = 1\textwidth]{Acads/12Marksheet.jpg}
+                                                  {\centering}
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[2] <Acads/jee-main-and-advanced.jpg, id=17, 2915.89375pt x 4039.09pt>
+File: Acads/jee-main-and-advanced.jpg Graphic file (type jpg)
+
+<use Acads/jee-main-and-advanced.jpg>
+Package pdftex.def Info: Acads/jee-main-and-advanced.jpg used on input line 28.
+
+(pdftex.def)             Requested size: 345.0pt x 477.89043pt.
+ [3]
+<Acads/ap_grade.png, id=21, 1371.1225pt x 770.88pt>
+File: Acads/ap_grade.png Graphic file (type png)
+ <use Acads/ap_grade.png>
+Package pdftex.def Info: Acads/ap_grade.png used on input line 37.
+(pdftex.def)             Requested size: 379.5021pt x 213.363pt.
+
+Overfull \hbox (34.5021pt too wide) in paragraph at lines 37--38
+ [] 
+ []
+
+[4 <./Acads/jee-main-and-advanced.jpg>]
+<Acads/kvpy.jpeg, id=25, 2246.3925pt x 1633.10126pt>
+File: Acads/kvpy.jpeg Graphic file (type jpg)
+ <use Acads/kvpy.jpeg>
+Package pdftex.def Info: Acads/kvpy.jpeg used on input line 41.
+(pdftex.def)             Requested size: 310.4979pt x 225.71709pt.
+
+
+LaTeX Warning: File `Acads/nsep.jpg' not found on input line 46.
+
+
+! Package pdftex.def Error: File `Acads/nsep.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...phics[width = 1\textwidth]{Acads/nsep.jpg}
+                                                  {\centering}
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[5 <./Acads/ap_grade.png> <./Acads/kvpy.jpeg>]
+
+LaTeX Warning: File `Acads/ntse1.jpg' not found on input line 51.
+
+
+! Package pdftex.def Error: File `Acads/ntse1.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 ...hics[width = 1\textwidth]{Acads/ntse1.jpg}
+                                                  {\centering}
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[6]
+
+LaTeX Warning: File `Acads/homibhabha.jpg' not found on input line 56.
+
+
+! Package pdftex.def Error: File `Acads/homibhabha.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...width = 1\textwidth]{Acads/homibhabha.jpg}
+                                                  {\centering}
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[7]
+
+LaTeX Warning: File `Acads/mom-olympiad.jpg' not found on input line 61.
+
+
+! Package pdftex.def Error: File `Acads/mom-olympiad.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 ...dth = 1\textwidth]{Acads/mom-olympiad.jpg}
+                                                  {\centering}
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[8]
+
+LaTeX Warning: File `Acads/iitbmaths-olympiad.jpg' not found on input line 66.
+
+
+! Package pdftex.def Error: File `Acads/iitbmaths-olympiad.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ...1\textwidth]{Acads/iitbmaths-olympiad.jpg}
+                                                  {\centering}
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[9] [10] <intern_verification.pdf, id=45, 597.23125pt x 845.1575pt>
+File: intern_verification.pdf Graphic file (type pdf)
+
+<use intern_verification.pdf>
+Package pdftex.def Info: intern_verification.pdf used on input line 73.
+(pdftex.def)             Requested size: 379.5021pt x 537.04305pt.
+
+Overfull \hbox (34.5021pt too wide) in paragraph at lines 73--74
+[] 
+ []
+
+
+Overfull \vbox (50.73743pt too high) has occurred while \output is active []
+
+
+[11 <./intern_verification.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./intern_verification.pdf): PDF inclusi
+on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
+ored.
+>]
+
+! LaTeX Error: \begin{document} ended by \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 \end{center}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.74 \end{center}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+
+LaTeX Warning: File `"insert here".png' not found on input line 81.
+
+
+! Package pdftex.def Error: File `"insert here".png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 ...[width = 1.1\textwidth]{"insert here".png}
+                                                  {\centering}
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (34.5021pt too wide) in paragraph at lines 81--82
+ [] 
+ []
+
+
+LaTeX Warning: File `"insert here".png' not found on input line 86.
+
+
+! Package pdftex.def Error: File `"insert here".png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ...[width = 1.1\textwidth]{"insert here".png}
+                                                  {\centering}
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (34.5021pt too wide) in paragraph at lines 86--87
+ [] 
+ []
+
+[12] <pro/ITSP.png, id=72, 694.84593pt x 326.72063pt>
+File: pro/ITSP.png Graphic file (type png)
+ <use pro/ITSP.png>
+Package pdftex.def Info: pro/ITSP.png used on input line 91.
+(pdftex.def)             Requested size: 379.5021pt x 178.44058pt.
+
+Overfull \hbox (34.5021pt too wide) in paragraph at lines 91--92
+ [] 
+ []
+
+[13] [14 <./pro/ITSP.png>] <pro/por.png, id=81, 685.05937pt x 326.72063pt>
+File: pro/por.png Graphic file (type png)
+
+<use pro/por.png>
+Package pdftex.def Info: pro/por.png used on input line 97.
+(pdftex.def)             Requested size: 379.5021pt x 180.99806pt.
+
+Overfull \hbox (34.5021pt too wide) in paragraph at lines 97--98
+ [] 
+ []
+
+<EX/nss.jpeg, id=82, 2241.37375pt x 1710.39pt>
+File: EX/nss.jpeg Graphic file (type jpg)
+ <use EX/nss.jpeg>
+Package pdftex.def Info: EX/nss.jpeg used on input line 102.
+(pdftex.def)             Requested size: 379.5021pt x 289.58803pt.
+
+Overfull \hbox (34.5021pt too wide) in paragraph at lines 102--103
+ [] 
+ []
+
+[15 <./pro/por.png>] <EX/vigyasa.jpeg, id=87, 2198.2125pt x 1706.375pt>
+File: EX/vigyasa.jpeg Graphic file (type jpg)
+
+<use EX/vigyasa.jpeg>
+Package pdftex.def Info: EX/vigyasa.jpeg used on input line 106.
+(pdftex.def)             Requested size: 379.5021pt x 294.58434pt.
+
+Overfull \hbox (34.5021pt too wide) in paragraph at lines 106--107
+ [] 
+ []
+
+[16 <./EX/nss.jpeg>] <EX/elementary.jpg, id=91, 2059.695pt x 1537.745pt>
+File: EX/elementary.jpg Graphic file (type jpg)
+
+<use EX/elementary.jpg>
+Package pdftex.def Info: EX/elementary.jpg used on input line 110.
+(pdftex.def)             Requested size: 379.5021pt x 283.32863pt.
+
+Overfull \hbox (34.5021pt too wide) in paragraph at lines 110--111
+ [] 
+ []
+
+[17 <./EX/vigyasa.jpeg>]
+Overfull \hbox (3.01118pt too wide) in paragraph at lines 112--112
+[]\OT1/cmr/bx/n/12 Maharashtra State Cham-pion in Aba-cus Men-tal Arith-
+ []
+
+<EX/ucmas.jpeg, id=95, 1591.9475pt x 2093.8225pt>
+File: EX/ucmas.jpeg Graphic file (type jpg)
+ <use EX/ucmas.jpeg>
+Package pdftex.def Info: EX/ucmas.jpeg used on input line 114.
+(pdftex.def)             Requested size: 379.5021pt x 499.14107pt.
+
+Overfull \hbox (34.5021pt too wide) in paragraph at lines 114--115
+ [] 
+ []
+
+[18 <./EX/elementary.jpg>]
+
+! LaTeX Error: \begin{document} ended by \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 \end{center}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.116 \end{center}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+[19 <./EX/ucmas.jpeg>] (./16D070011_resume_verify.aux) ) 
+Here is how much of TeX's memory you used:
+ 3881 strings out of 494953
+ 59961 string characters out of 6180977
+ 112626 words of memory out of 5000000
+ 7124 multiletter control sequences out of 15000+600000
+ 5317 words of font info for 20 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 38i,4n,38p,275b,186s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmtt10.pfb>
+Output written on 16D070011_resume_verify.pdf (20 pages, 6509097 bytes).
+PDF statistics:
+ 121 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
